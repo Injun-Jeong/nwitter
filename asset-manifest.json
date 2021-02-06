@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nweeter/static/css/main.22650441.chunk.css",
+    "main.js": "/nweeter/static/js/main.9dd663f4.chunk.js",
+    "main.js.map": "/nweeter/static/js/main.9dd663f4.chunk.js.map",
+    "runtime-main.js": "/nweeter/static/js/runtime-main.e7937ff1.js",
+    "runtime-main.js.map": "/nweeter/static/js/runtime-main.e7937ff1.js.map",
+    "static/js/2.2a544249.chunk.js": "/nweeter/static/js/2.2a544249.chunk.js",
+    "static/js/2.2a544249.chunk.js.map": "/nweeter/static/js/2.2a544249.chunk.js.map",
+    "index.html": "/nweeter/index.html",
+    "static/css/main.22650441.chunk.css.map": "/nweeter/static/css/main.22650441.chunk.css.map",
+    "static/js/2.2a544249.chunk.js.LICENSE.txt": "/nweeter/static/js/2.2a544249.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7937ff1.js",
+    "static/js/2.2a544249.chunk.js",
+    "static/css/main.22650441.chunk.css",
+    "static/js/main.9dd663f4.chunk.js"
+  ]
+}
